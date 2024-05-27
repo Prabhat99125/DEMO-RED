@@ -1,13 +1,13 @@
 <h1 align="center">Hy, i am itu Rathva</h1>
 
-<li>
-            <ul>Creating new document</ul>
+<ul>
+            <li>Creating new document</li>
             
-</li>
-<li>
-            <ul>Creating new document</ul>
+</ui>
+<lu>
+            <li>Creating new document</li>
             
-</li>
+</ul>
 
 <table width="80%" border="5" cellspacing="2" bgcolor="pink" cellpadding="3">
             <tr>
