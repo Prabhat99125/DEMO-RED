@@ -15,6 +15,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Html and Pyton**
+-  programin for html, css, js and python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
