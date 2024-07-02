@@ -25,7 +25,7 @@
             </tr>
             <tr>
                 <td height="40">Stainless Steel</td>
-                <td align="center">50</td>
+                <td align="center">10</td>
                 <td align="center">150</td>
             </tr>
 >
